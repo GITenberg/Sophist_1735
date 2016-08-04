@@ -1,0 +1,45 @@
+_repo: Sophist_1735
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jowett, Benjamin
+    alias: Jowett, William
+    birthdate: 1817
+    deathdate: 1893
+    gutenberg_agent_id: '94'
+    url: http://www.gutenberg.org/2009/agents/94
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Jowett
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: This is a fluent and accurate new translation of the dialogue that, all
+  of Plato's works, has seemed to speak most directly to the interests of contemporary
+  analytical philosophers. White's extensive introduction explores the dialogue's
+  center themes, its connection with related discussions in other dialogues, and its
+  implication for the interpretation of Plato's metaphysics.
+gutenberg_issued: '1999-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Methodology'
+- !lcsh 'Logic, Ancient'
+- !lcc 'PA'
+- !lcsh 'Sophists (Greek philosophy)'
+- !lcsh 'Classical literature'
+- !lcsh 'Ontology'
+- !lcsh 'Meaning (Philosophy)'
+- GITenberg
+title: Sophist
+url: http://www.gutenberg.org/ebooks/1735
